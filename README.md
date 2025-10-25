@@ -26,5 +26,6 @@ and generates a full task list in a third sheet — while marking done exhibitio
 6. Done! Tasks will be auto-generated and exhibitions marked “Done”.
 
 ---
-👨‍💻 Created by: [Your Name]
+👨‍💻 Created by: [Vivek]
 📅 Last Updated: October 2025
+
